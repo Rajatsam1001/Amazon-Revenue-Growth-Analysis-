@@ -40,19 +40,8 @@ An interactive Excel dashboard was developed to summarize key performance indica
 - The weighted ASP proxy fluctuated across the analyzed years rather than showing a consistent overall decline.
 - Department-level and customer-segment analysis can help identify areas for further pricing and performance investigation.
 
-*Note: Findings should be interpreted using the dataset's field definitions and validated calculations. Segment-level ASP conclusions should be added after the detailed analysis is verified.*
 
-## 🖥️ Dashboard Preview
 
-Add a screenshot of your final, corrected Excel dashboard to this repository.
-
-![Amazon Sales Dashboard](dashboard.png)
-
-## 📁 Project Files
-
-- `Amazon Dashboard.xlsx` — Excel workbook containing the source data, Pivot Tables, and dashboard.
-- `README.md` — Project documentation.
-- `dashboard.png` — Dashboard screenshot for portfolio viewing.
 
 ## 💡 Business Value
 
